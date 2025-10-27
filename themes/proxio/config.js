@@ -176,7 +176,7 @@ const CONFIG = {
   ],
 
   // 关于作者区块
-  PROXIO_ABOUT_ENABLE: true, // 关于作者区块区块开关
+  PROXIO_ABOUT_ENABLE: false, // 关于作者区块区块开关
   PROXIO_ABOUT_TITLE: '关于作者',
   PROXIO_ABOUT_TEXT_1: 'I am an Architect Turned Into a Product Designer',
   PROXIO_ABOUT_TEXT_2:
